@@ -1,5 +1,16 @@
-https://pages.github.com/	
+1https://pages.github.com/	
 
-rez opti  :
+rez defaut  :
 1200 * 750 pr full 
 360 * 225 pr thumb
+* 3,33
+
+
+perso :
+1920 x 1080
+480 x 270 * 0.25
+288 x 162 * 0.15
+
+gif sont OK
+TIFF PAS OK
+
